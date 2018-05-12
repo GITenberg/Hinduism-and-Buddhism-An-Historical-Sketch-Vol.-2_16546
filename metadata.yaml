@@ -1,0 +1,33 @@
+_repo: Hinduism-and-Buddhism-An-Historical-Sketch-Vol.-2_16546
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eliot, Charles, Sir
+    alias: Eliot, Charles Norton Edgecumbe
+    birthdate: 1862
+    deathdate: 1931
+    gutenberg_agent_id: '4887'
+    url: http://www.gutenberg.org/2009/agents/4887
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Eliot_(diplomat)
+description: ''
+gutenberg_bookshelf:
+- Hinduism
+- Buddhism
+gutenberg_issued: '2005-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16546'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hinduism'
+- !lcsh 'Buddhism'
+- !lcsh 'Asia -- Religion'
+- !lcc 'BL'
+title: Hinduism and Buddhism, An Historical Sketch, Vol. 2
+url: http://www.gutenberg.org/ebooks/16546
